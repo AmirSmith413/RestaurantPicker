@@ -1,4 +1,5 @@
-﻿bool playagain = true;
+﻿//after I pick a category, it doesn't return a restaurant. data validation on play again option is good. 
+bool playagain = true;
 string choice;
 string decision;
 while(playagain == true)

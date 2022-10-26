@@ -1,0 +1,15 @@
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\bin\Debug\net6.0\Restaurant Picker.exe
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\bin\Debug\net6.0\Restaurant Picker.deps.json
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\bin\Debug\net6.0\Restaurant Picker.runtimeconfig.json
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\bin\Debug\net6.0\Restaurant Picker.dll
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\bin\Debug\net6.0\Restaurant Picker.pdb
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\obj\Debug\net6.0\Restaurant Picker.csproj.AssemblyReference.cache
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\obj\Debug\net6.0\Restaurant Picker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\obj\Debug\net6.0\Restaurant Picker.AssemblyInfoInputs.cache
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\obj\Debug\net6.0\Restaurant Picker.AssemblyInfo.cs
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\obj\Debug\net6.0\Restaurant Picker.csproj.CoreCompileInputs.cache
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\obj\Debug\net6.0\Restaurant Picker.dll
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\obj\Debug\net6.0\refint\Restaurant Picker.dll
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\obj\Debug\net6.0\Restaurant Picker.pdb
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\obj\Debug\net6.0\Restaurant Picker.genruntimeconfig.cache
+C:\Users\lizg1\Amir2Repo\RestaurantPicker\obj\Debug\net6.0\ref\Restaurant Picker.dll
