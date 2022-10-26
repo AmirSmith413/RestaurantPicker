@@ -29,8 +29,9 @@ while(playagain == true)
     {
         Random numGen = new Random();
         int chinese = numGen.Next(0,chineseplaces.Length);
-        Console.WriteLine("We're going to " + burgerplaces[chinese]);
+        Console.WriteLine("We're going to " + chineseplaces[chinese]);
     }
+
     Console.WriteLine("Would you like to try again?Type Y to try again or N to end.");
     decision = Console.ReadLine().ToUpper();
     //if the user wanted to try again, pressing "Y" will send them to the beginning
